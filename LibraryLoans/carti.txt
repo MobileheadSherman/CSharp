@@ -1,0 +1,9 @@
+100;Culorile incendiului;Pierre Lemaitre;Arthur;Literatura Straina
+101;A doua sansa;Christine Riccio;Compania ;Literatura Straina
+102;Epoca iluziilor;Andrew J. Bacevich;Ceres;Diverse
+103;Criticonul;Baltasar Gracian;Humanitas;Filosofie
+104;Carti in flacari;Gengevieve Cogman;Gama;Psihologie
+105;Inchizitia;Toby Green;Minerva;Istorie
+106;Matematica. Caiet de lucru;Ion Tudor;Paralela 45;Manuale Scolare
+107;Romanul unei femei;Mircea Mihaies;Polirom ;Roman
+1106;Zece cezari;Barry Strauss;Polirom ;Istorie
